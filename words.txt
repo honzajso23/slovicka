@@ -1,5 +1,4 @@
-HAVE;MÍT
-ALWAYS;VŽDY
+AAA;BBB
 
 
 
